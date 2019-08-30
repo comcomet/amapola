@@ -14,5 +14,5 @@ print('gogo')
 print(bread)
 print('1')
 # 안녕이 출력되게 해 봅시다
-str = "안녕"
-print(str)
+str1 = "안녕"
+print(str1)
