@@ -16,3 +16,5 @@ print('1')
 # 안녕이 출력되게 해 봅시다
 str1 = "안녕"
 print(str1)
+str2 = "하세요"
+print(str1 + ' ' +str2)
